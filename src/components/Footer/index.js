@@ -13,7 +13,6 @@ export default function Footer() {
           
           {/* Contact Details */}
           <div className="col-5 col-md-4 col-lg-3 text-right border-right border-white">
-            <a href="#navbar" className="my-1 px-2 contact-link">AMANDA LELIA</a>
             <a href="mailto:alwiehrs@gmail.com" className="my-1 px-2 contact-link">alwiehrs@gmail.com</a>
           </div>
 

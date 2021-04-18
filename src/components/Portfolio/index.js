@@ -14,7 +14,7 @@ export default function Portfolio() {
     <section>
       <h1>PORTFOLIO</h1>
       <h1>{data[0].title}</h1>
-      <img style={{ width: '300px' }} src={data[0].thumbnail} alt="Screenshot of Burger.js" />
+      <img style={{ width: '300px' }} src={data[0].thumbnail} alt="conch" />
       <Project />
       <Project />
       <Project />

@@ -6,6 +6,7 @@ import Home from './components/Home';
 import Portfolio from './components/Portfolio';
 import About from './components/About';
 import Footer from './components/Footer';
+import Header from './components/Header';
 
 // Import stylesheet
 import "./App.css";
@@ -16,6 +17,7 @@ function App() {
     <HashRouter basename="/">
       <div id="bg-wrapper">
         <Navbar />
+        <Header></Header>
         <Wrapper>
           <Route exact path={["/", "/home"]} component={Home} />
           <Route exact path="/portfolio" component={Portfolio} />
