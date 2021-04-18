@@ -1,12 +1,18 @@
-.navList {
-    display: grid;
-    grid-template-columns: repeat(5, auto);
-    max-width: 90%;
-    justify-items: center;
-    align-items: center;
-    border-bottom: 1px solid #e4e4e4;
-    text-transform: lowercase;
-    margin: 0 auto;
-    font-size: 1rem;
-}
+nav {
+    background-color: var(--accent-dark);
+  }
   
+  .nav-link,
+  .nav-link:visited {
+    color: var(--light-color);
+    display: inline-block;
+    font-family: "Rubik";
+    font-size: 1rem;
+    font-weight: 600;
+  }
+  
+  .nav-link:hover {
+    background-color: var(--light-color);
+    color: var(--dark-color);
+    text-decoration: none;
+  }

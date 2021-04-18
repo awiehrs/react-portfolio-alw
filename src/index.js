@@ -1,13 +1,8 @@
+  
+// Import modules
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './App.css';
-import App from './App.js';
+import App from './App';
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
-
-
+// Render App component
+ReactDOM.render(<App />, document.getElementById('root'));

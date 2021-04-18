@@ -3,6 +3,7 @@ body {
   font-family: 'Ruluko', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #edd3c3;
 }
 
 code {
