@@ -7,6 +7,7 @@ import Portfolio from './components/Portfolio';
 import About from './components/About';
 import Footer from './components/Footer';
 import Header from './components/Header';
+import Contact from './components/Contact'
 
 // Import stylesheet
 import "./App.css";
@@ -22,6 +23,7 @@ function App() {
           <Route exact path={["/", "/home"]} component={Home} />
           <Route exact path="/portfolio" component={Portfolio} />
           <Route exact path="/about" component={About} />
+          <Route exact path="/contact" component={Contact} />
         </Wrapper>
         <Footer />
       </div>
