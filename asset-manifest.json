@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-alw/static/css/main.cd374638.chunk.css",
+    "main.js": "/react-portfolio-alw/static/js/main.193a6e22.chunk.js",
+    "main.js.map": "/react-portfolio-alw/static/js/main.193a6e22.chunk.js.map",
+    "runtime-main.js": "/react-portfolio-alw/static/js/runtime-main.b7bc2b9e.js",
+    "runtime-main.js.map": "/react-portfolio-alw/static/js/runtime-main.b7bc2b9e.js.map",
+    "static/js/2.80718844.chunk.js": "/react-portfolio-alw/static/js/2.80718844.chunk.js",
+    "static/js/2.80718844.chunk.js.map": "/react-portfolio-alw/static/js/2.80718844.chunk.js.map",
+    "index.html": "/react-portfolio-alw/index.html",
+    "static/css/main.cd374638.chunk.css.map": "/react-portfolio-alw/static/css/main.cd374638.chunk.css.map",
+    "static/js/2.80718844.chunk.js.LICENSE.txt": "/react-portfolio-alw/static/js/2.80718844.chunk.js.LICENSE.txt",
+    "static/media/Grayson-4 (3).65acdec5.jpg": "/react-portfolio-alw/static/media/Grayson-4 (3).65acdec5.jpg",
+    "static/media/IMG_4631 (1).55899b62.jpg": "/react-portfolio-alw/static/media/IMG_4631 (1).55899b62.jpg",
+    "static/media/IMG_8944.0cba3277.jpg": "/react-portfolio-alw/static/media/IMG_8944.0cba3277.jpg",
+    "static/media/Planner-Screenshot.10a5c8a1.png": "/react-portfolio-alw/static/media/Planner-Screenshot.10a5c8a1.png",
+    "static/media/burger-screenshot.d7539a60.png": "/react-portfolio-alw/static/media/burger-screenshot.d7539a60.png",
+    "static/media/weathermemory_screenshot.59dff18c.png": "/react-portfolio-alw/static/media/weathermemory_screenshot.59dff18c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7bc2b9e.js",
+    "static/js/2.80718844.chunk.js",
+    "static/css/main.cd374638.chunk.css",
+    "static/js/main.193a6e22.chunk.js"
+  ]
+}
