@@ -35,7 +35,7 @@ function Contact() {
                         <a href="https://github.com/awiehrs" target="_blank" rel="noopener noreferrer" class="contactMeLinks">Github</a>
                     </p>
                     <b>Download my Resume</b>
-                    <a href="assets/AmandaWiehrsResume-2021.pdf" download="AmandaLeliaWiehrs-Resume" class="contactMeLinks">Resume PDF</a>
+                    <a href="../assets/AmandaWiehrsResume-2021.pdf" download="AmandaLeliaWiehrs-Resume" class="contactMeLinks">Resume PDF</a>
                 </div>
                 <div class="spaceHolder">&nbsp;</div>
             </div>
