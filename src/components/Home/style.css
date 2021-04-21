@@ -1,0 +1,39 @@
+
+
+.homeDiv {
+    width: 420px;
+    height: 420px;
+    background-color: #bd9c9c;
+    float: left;
+    
+}
+
+.homeImg {
+    max-width: 420px;
+    height: 420px;
+}
+
+.webText {
+    font-size: 40px;
+    color: #977575;
+    margin-top: -160px;
+    
+    letter-spacing: 0.1em;
+}
+
+.andSign {
+    font-size: 130px;
+    color: #ccaaaa;
+    font-weight: bold;
+    margin-top: 275px;
+    margin-left: -180px;
+    font-family: 'Playfair Display', serif;
+}
+
+.designText {
+    font-size: 47px;
+    color: #856565;
+    margin-top: -45px;
+    margin-left: 220px;
+    letter-spacing: 0.2em;
+}

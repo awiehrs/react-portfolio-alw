@@ -1,5 +1,6 @@
 // Import modules
 import React from 'react';
+import imgPonies from '../../assets/images/Grayson-4 (3).jpg'
 
 
 // Import stylesheet
@@ -8,20 +9,19 @@ import './style.css';
 // Landing page component
 function Home() {
   return (
-    <div id="header" class="container d-flex justify-content-center">
-      <div id="header-text" class="text-center">
+    <div class="container d-flex justify-content-center">
+      <div class="text-center">
 
-        <div id="img-wrapper" class="mx-auto mb-3 d-flex justify-content-center align-items-center">
+        <div class="row">
+          <div class="homeDiv col-4">
+          <p class="andSign">&amp;</p>
+          <p class="webText">Web Development</p>
+          <p class="designText">Design</p>
+          </div>
+          <div class="col-6">
+            <img src={imgPonies} alt="Wild Ponies" className="homeImg" />
+          </div>
         </div>
-
-        <h1 class="heading font-weight-bold">
-          <i id="header-icon" class="mb-0 mr-1 fas fa-code"></i>
-          HELLO!
-        </h1>
-
-        <p class="h5 font-weight-light">My name is Amanda Lelia</p>
-
-        <hr />
 
         
 

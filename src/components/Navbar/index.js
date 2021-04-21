@@ -8,7 +8,7 @@ export default function Navbar() {
     <nav
       style={{ height: '60px' }}
       id="navbar"
-      className="navbar navbar-expand-lg"
+      className="navbar navbar-expand-lg justify-content-center"
     >
       <div>
         {/* Primary Links */}
